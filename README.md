@@ -2,46 +2,27 @@
 
 ## Overview ##
 
-For this challenge I was give an existing code with a user story and an acceptance criteria to optimize the site. 
-I made a few changes to the HTML and the CSS to make the code easier to read. 
-I added in a few codes to make the site function slightly more. 
+This is a site for the marketing agency Horiseon. For this challenge I was give an existing code with a user story and an acceptance criteria to optimize the site. 
 
 
-## User Story ##
 
-As a marketing agency
-I want a codebase that follows accessibility standards
-So that our own site is optimized for search engines
+## Discription ##
 
+I used an existing code for this project. The site was already up and running with a few bugs. 
+My goal was to make the HTML easier to read. I did this by replacing some of the language in the HTML.
+I also organized the CSS and added in comments. This made the CSS easier to navigate through.
+ 
+## Installation ##
 
-## Acceptance Criteria ##
+In order to install the program you can clone the ssh into the folder of your choice through your terminal by the Following commands;
+ * git clone
+ * git add -A
+ * git commit -m "insert comment"
+ * git push origin main
 
-GIVEN a webpage meets accessibility standards
+## Usage ##
 
-WHEN I view the source code
-
-THEN I will find semantic HTML elements
-
-
-WHEN I view the structure  of the HTML elements
-
-THEN I find that the elements follow a logical structure independent of styling and positioning
-
-
-WEHN I view the icon and image elements
-
-THEN I will find accessible alt attributes 
-
-
-WHEN I view the heading attributes
-
-THEN they will fall in sequential order
-
-
-WHEN I view the title element
-
-THEN I find a concise. descriptive title
-
+This is a marketing agency site with information on how to market your company.
 
 ## Licence ##
 MIT
