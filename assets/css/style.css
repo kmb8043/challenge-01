@@ -9,7 +9,7 @@ body {
 
 }
 
-/* this is for the nav links */
+/* this is for the header nav button links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -38,7 +38,7 @@ p {
     color: #d9dcd6;
 }
 
-/* header nav link styles */
+/* header nav button styles */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -72,7 +72,7 @@ p {
     margin-left: 20px;
 }
 
-/* search engine optimation */
+/* this is part of the main reading, search engine optimation */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +91,7 @@ p {
     font-size: 36px;
 }
 
-/* online repuation management */
+/* this is part of the main reading, online repuation management */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,7 +115,7 @@ p {
     font-size: 36px;
 }
 
-/* social media marketing */
+/* this is part of the main reading, social media marketing */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #2589bd;
 }
 
-/* lead generation */
+/* aside information, lead generation */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -168,7 +168,7 @@ p {
     max-width: 150px;
 }
 
-/* brand awareness */
+/* aside information, brand awareness */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -185,7 +185,7 @@ p {
     max-width: 150px;
 }
 
-/* cost management */
+/* aside information, cost management */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;

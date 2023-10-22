@@ -2,23 +2,23 @@
 
 ## Overview ##
 
-This is a site for the marketing agency Horiseon. For this challenge I was give an existing code with a user story and an acceptance criteria to optimize the site. 
+This is a site for the marketing agency Horiseon. For this challenge I was give an existing code with a goal to optimize the site. 
 
 
 
 ## Discription ##
 
-I used an existing code for this project. The site was already up and running with a few bugs. 
-My goal was to make the HTML easier to read. I did this by replacing some of the language in the HTML.
-I also organized the CSS and added in comments. This made the CSS easier to navigate through.
+The site was already up and running, it only needed a little sprusing up to fix the language and a navigation error. 
+My goal was to make the HTML easier to read. I did this by replacing some of the language in the HTML; replacing the non-semantic language with semantic. 
+I also organized the CSS and added in comments. The comments made the CSS easier to navigate through. 
  
-## Installation ##
+ ## Mock-up ##
+ ![image](https://github.com/kmb8043/challenge-01/assets/147110705/92726138-a6a0-4bb7-af65-a3568f69701c)
 
-In order to install the program you can clone the ssh into the folder of your choice through your terminal by the Following commands;
- * git clone
- * git add -A
- * git commit -m "insert comment"
- * git push origin main
+## Link to deploy ##
+
+Link to the site:
+https://kmb8043.github.io/challenge-01/
 
 ## Usage ##
 
