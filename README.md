@@ -2,27 +2,24 @@
 
 ## Overview ##
 
-This is a site for the marketing agency Horiseon. For this challenge I was give an existing code with a goal to optimize the site. 
+This is a website for the marketing agency, Horiseon. For this challenge, I was given an existing code with a goal to optimize the website. 
 
 
+## Description ##
 
-## Discription ##
-
-The site was already up and running, it only needed a little sprusing up to fix the language and a navigation error. 
-My goal was to make the HTML easier to read. I did this by replacing some of the language in the HTML; replacing the non-semantic language with semantic. 
-I also organized the CSS and added in comments. The comments made the CSS easier to navigate through. 
+The website was already up and running. I fixed the HTML language and a navigation errors to opimize the website. 
+My goal was to make the HTML easier to read. I did this by making changes to the language in the HTML. I removed the non-semantic tags and replaced them with semantic.
+I added comments in the CSS making it easier to navigate and read. 
  
- ## Mock-up ##
+ ## Usage ##
+
+Horiseon is an agency marketing website with information on how to grow and market your company.
+
  ![image](https://github.com/kmb8043/challenge-01/assets/147110705/92726138-a6a0-4bb7-af65-a3568f69701c)
 
-## Link to deploy ##
+## Link to the site ##
 
-Link to the site:
 https://kmb8043.github.io/challenge-01/
-
-## Usage ##
-
-This is a marketing agency site with information on how to market your company.
 
 ## Licence ##
 MIT
